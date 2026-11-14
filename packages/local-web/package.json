@@ -93,7 +93,7 @@
     "tailwind-scrollbar": "^3.1.0",
     "tailwindcss-animate": "^1.0.7",
     "wa-sqlite": "^1.0.0",
-    "zod": "^3.25.76",
+    "zod": "^4.6.6",
     "zustand": "^4.5.4"
   },
   "devDependencies": {
@@ -120,10 +120,10 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "eslint-plugin-unused-imports": "^4.1.4",
-    "postcss": "^8.4.32",
+    "postcss": "^8.5.23",
     "prettier": "^3.6.1",
     "tailwindcss": "^3.4.0",
     "typescript": "^5.9.2",
-    "vite": "^7.3.1"
+    "vite": "^7.3.7"
   }
 }
